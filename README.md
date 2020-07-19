@@ -23,5 +23,5 @@ In return, we would kindly ask if you can keep a link to www.gemidyne.com in you
 
 ## Credits
 
-Original vsh_castle map created by Sensei.
-Nightmare House 2 is property & copyright WeCreateStuff.
+- Original vsh_castle map created by Sensei.
+- Nightmare House 2 is property & copyright WeCreateStuff.

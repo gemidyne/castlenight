@@ -19,7 +19,7 @@ I believe this is the version used in this video: https://youtu.be/3XXy_NNLUos
 
 ## A warning if you load this in-game as is
 As this map is very old, there are a lot of missing models throughout the map. However, if you want to fix the map up into your own version - feel free! No permission needed. 
-In return, we would kindly ask if you can keep a link to www.gemidyne.com in your map (however, this is not mandatory!)
+We would kindly ask if you can keep a link to www.gemidyne.com in your map (however we don't mind if you don't do this - its entirely up to you!)
 
 ## Credits
 
